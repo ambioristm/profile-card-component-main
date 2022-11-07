@@ -59,6 +59,7 @@ body {
 .card-body-edad {
 	font-weight: 400;
 	color: var(--Dark-grayish-blue);
+	padding-left: 5px;
 }
 .card-body-city {
 	font-size: 1.4rem;
@@ -79,7 +80,7 @@ body {
 	color: var(--Very-dark-desaturated-blue);
 }
 .footer-followers, .footer-likes, .footer-photos {
-	font-size: 1.1rem;
+	font-size: 1rem;
 	font-weight: 400;
 	color: var(--Dark-gray);
 	padding: 3px 0 24px 0;
